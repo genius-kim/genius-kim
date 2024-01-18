@@ -9,9 +9,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://resource.if010.com/readme/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://resource.if010.com/readme/assets/images/developer.svg" height="225px" />
-    <img src="https://resource.if010.com/readme/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/developer.svg" height="225px" />
+    <img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -32,9 +32,9 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://resource.if010.com/readme/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://resource.if010.com/readme/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://resource.if010.com/readme/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -47,7 +47,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://resource.if010.com/readme/assets/images/xianyu.jpg" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/xianyu.jpg" />
 
 <p>&emsp;&emsp;大家好，我是Kim同学。</p>
 <p>&emsp;&emsp;能干的我今天还是一样的忧郁</p>
@@ -61,7 +61,7 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://resource.if010.com/readme/assets/images/csg.jpg" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/csg.jpg" />
 
 - [中国南方电网](https://www.csg.cn/) &emsp; 📌 2021-06 —— Now
   
@@ -139,20 +139,20 @@ Mac                      25 hrs 31 mins      ███████████�
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://resource.if010.com/readme/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<!-- <img align="left" width="150" src="https://resource.if010.com/readme/assets/images/left.png" /> -->
-<img align="left" width="150" src="https://resource.if010.com/readme/assets/images/cxyduck.gif" />
+<!-- <img align="left" width="150" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/left.png" /> -->
+<img align="left" width="150" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/cxyduck.gif" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genius-kim&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genius-kim&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=genius-kim&theme=default&hide_border=true" />
 </picture>
-<!-- <img align="right" width="150"  src="https://resource.if010.com/readme/assets/images/right.png" /> -->
-<img align="right" width="150" src="https://resource.if010.com/readme/assets/images/cxyduck.gif" />
+<!-- <img align="right" width="150"  src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/right.png" /> -->
+<img align="right" width="150" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -169,12 +169,12 @@ Mac                      25 hrs 31 mins      ███████████�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://resource.if010.com/readme/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://resource.if010.com/readme/assets/images/mb.png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -189,12 +189,12 @@ Mac                      25 hrs 31 mins      ███████████�
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://resource.if010.com/readme/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://resource.if010.com/readme/assets/images/man.png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -252,70 +252,70 @@ Mac                      25 hrs 31 mins      ███████████�
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/html.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/vscode.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/react.webp">
-<img height="95" width="95" src="https://resource.if010.com/readme/assets/images/vue.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/python.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/js.webp">
-<img height="100" width="100" src="https://resource.if010.com/readme/assets/images/github.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/html.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/vscode.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/react.webp">
+<img height="95" width="95" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/vue.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/python.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/js.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://resource.if010.com/readme/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://resource.if010.com/readme/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://resource.if010.com/readme/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://resource.if010.com/readme/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://resource.if010.com/readme/assets/images/githubgif.gif" />
+<img width="36%" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://resource.if010.com/readme/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://resource.if010.com/readme/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://resource.if010.com/readme/assets/images/icon.png" /></div>
+<img src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/icon.png" /></div>
 </div>
