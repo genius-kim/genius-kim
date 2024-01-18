@@ -53,7 +53,7 @@
 <p>&emsp;&emsp;能干的我今天还是一样的忧郁</p>
 <p>&emsp;&emsp;非常不热爱计算机科学和IT互联网事业，就是混两口饭吃，励志成为一名废物</p>
 <p>&emsp;&emsp;正在努力需求一名富婆包养，但是富婆也有她自己的难处。。。唉。。。</p>
-<p><strong>&emsp;&emsp;When you find your talent can't support your ambitions, please quiet down and study.</strong></p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
