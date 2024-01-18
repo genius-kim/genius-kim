@@ -53,7 +53,7 @@
 <p>&emsp;&emsp;能干的我今天还是一样的忧郁</p>
 <p>&emsp;&emsp;非常不热爱计算机科学和IT互联网事业，就是混两口饭吃，励志成为一名废物</p>
 <p>&emsp;&emsp;正在努力需求一名富婆包养，但是富婆也有她自己的难处。。。唉。。。</p>
-<p><strong>&emsp;&emsp;When you find your talent can't support your ambitions, please quiet down and study.</strong></p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
@@ -67,6 +67,13 @@
   
   - 工作岗位：安全运维工程师（中级）
   - 工作内容：保密,其实就是打打杂，┭┮﹏┭┮
+
+<img align="right" width="88" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/jekun.png" />
+
+- [广州市集群车宝数字科技有限公司]([https://www.csg.cn](http://www.jekunauto.com.cn/)/) &emsp; 📌 2018-09 —— 2021-01
+  
+  - 工作岗位：系统运维工程师
+  - 工作内容：务务农，溜溜码，打打杂，跑跑腿。。。。
 
 </td></tr>
 
