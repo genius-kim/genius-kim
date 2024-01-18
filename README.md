@@ -68,6 +68,13 @@
   - 工作岗位：安全运维工程师（中级）
   - 工作内容：保密,其实就是打打杂，┭┮﹏┭┮
 
+<img align="right" width="88" src="https://raw.githubusercontent.com/genius-kim/genius-kim/main/readme/assets/images/jekun.png" />
+
+- [广州市集群车宝数字科技有限公司]([https://www.csg.cn](http://www.jekunauto.com.cn/)/) &emsp; 📌 2018-09 —— 2021-01
+  
+  - 工作岗位：系统运维工程师
+  - 工作内容：务务农，溜溜码，打打杂，跑跑腿。。。。
+
 </td></tr>
 
 ### 📊 WakaTime
